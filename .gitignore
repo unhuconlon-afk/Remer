@@ -1,0 +1,25 @@
+# Credentials & Tokens (DO NOT SHARE OR COMMMIT FOR SECURITY)
+credentials.json
+token.json
+
+# Logs
+coordinator.log
+*.log
+
+# Executable binaries
+CalendarAssistant.exe
+temp_CalendarAssistant.exe
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Settings overrides
+# settings.json

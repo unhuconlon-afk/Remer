@@ -1,0 +1,7 @@
+{
+    "OLLAMA_API_URL": "http://localhost:11434/api/generate",
+    "MODEL_NAME": "qwen2.5-coder:latest",
+    "TIMEZONE": "Asia/Ho_Chi_Minh",
+    "POLL_INTERVAL_SECONDS": 1.5,
+    "DEBOUNCE_CACHE_SECONDS": 10
+}
